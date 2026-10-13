@@ -10,4 +10,4 @@ I work on retail AI platforms — framing the problem, writing the PRD, and owni
 - **Prototyping** — plain HTML/JS when a static mockup can't answer the question
 
 ### Selected work
-- **[建院模拟器](https://archiloss.github.io/archi-life/)** — an architecture-school life sim, designed and built end-to-end in the browser
+- **[建院模拟器 v0.1](https://archiloss.github.io/archi-life/)** — a browser game about a life in architecture: turn-based scheduling, review / defense / thesis checkpoints, 7 graduation branches and a collectible ending dex (CAD-inspired UI, built end-to-end)
