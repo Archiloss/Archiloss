@@ -1,11 +1,13 @@
-# Hi, I'm Qixuan (Alex)
+# Qixuan Huang
 
-AI product manager based in Beijing. By day I work on internal AI platforms; by night I use AI to build the things I actually want.
+AI Product Manager, Beijing.
 
-### What I work on
-- **AI tooling** — upstream fixes to token accounting in [tokscale](https://github.com/junhoyeo/tokscale) and [token-monitor](https://github.com/Javis603/token-monitor), both merged
-- **Data-dense dashboards** — thousands of rows, and no room for a vague number
-- **Small games** — [建院模拟器](https://archiloss.github.io/archi-life/), a board-game-style life sim about architecture school
+I work on retail AI platforms — framing the problem, writing the PRD, and owning the metrics that decide whether a model is actually earning its keep. Most of what I build starts as a metrics question and ends as tooling a team runs every day.
 
-### How I work
-Prototype in plain HTML/JS → automate anything I've done twice → only trust a number I can reproduce.
+### Focus
+- **AI product** — evaluation, rollout and iteration on multi-tenant retail AI platforms
+- **Metrics & evaluation** — dashboards and analysis where every number traces back to its source
+- **Prototyping** — plain HTML/JS when a static mockup can't answer the question
+
+### Selected work
+- **[建院模拟器](https://archiloss.github.io/archi-life/)** — an architecture-school life sim, designed and built end-to-end in the browser
